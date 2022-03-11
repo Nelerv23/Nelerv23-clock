@@ -1,0 +1,26 @@
+HTML{
+    overflow: hidden;
+}
+
+
+#photo{
+    
+    size: 75%;
+}
+#mon{
+    opacity: .5;
+}
+
+
+.clock{
+    text-align: center;
+    background-color: black;
+    opacity: 1;
+    color: white;
+    position: fixed;
+    left: 40%;
+    padding:50px;
+    bottom: 35%;
+    height: 200px;
+    font-size: 20px;
+}
